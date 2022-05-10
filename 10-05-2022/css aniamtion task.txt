@@ -1,0 +1,15 @@
+* css 3d animation
+* Translate
+* Rotate
+* Rotate3D
+* Skew
+* Scale
+* Opacity
+* RGBA
+* BoxShadow
+* TextShadow
+* BorderRadius
+* OverFlow
+* FontAwesome
+* Image_Hover_Effect
+* VideoBackgroundEffects
